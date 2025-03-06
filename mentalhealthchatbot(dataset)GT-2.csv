@@ -1,0 +1,11 @@
+id,user_input,response,category,tags
+1,"I feel sad all the time","I'm sorry to hear that. It's important to talk about your feelings. Would you like to share more?","Depression","sadness, emotions"
+2,"I can't sleep at night","Difficulty sleeping can be tough. Have you tried relaxation techniques or a bedtime routine?","Insomnia","sleep, stress"
+3,"I feel anxious about my future","It's normal to feel anxious about the future. Let's break it down into smaller steps. What's on your mind?","Anxiety","worry, future"
+4,"I don't feel like doing anything","Losing interest in activities can be a sign of depression. Have you spoken to someone about how you're feeling?","Depression","apathy, motivation"
+5,"I feel lonely","Feeling lonely can be hard. Have you considered reaching out to friends or joining a community?","Loneliness","isolation, social"
+6,"I'm stressed about work","Work stress is common. Let's talk about what's causing it and how to manage it.","Stress","work, pressure"
+7,"I feel overwhelmed","Feeling overwhelmed is tough. Let's prioritize and tackle one thing at a time.","Stress","overwhelm, emotions"
+8,"I think I need help","It's brave to ask for help. Would you like resources or guidance on where to start?","General","support, help"
+9,"I feel like no one understands me","Feeling misunderstood can be isolating. Let's talk about how you're feeling.","Loneliness","isolation, emotions"
+10,"I can't stop overthinking","Overthinking can be exhausting. Let's work on grounding techniques to help you focus.","Anxiety","overthinking, stress"
